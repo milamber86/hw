@@ -1,0 +1,19 @@
+( supermicro .i-1420F-X10 1U 2S-R3,2GbE/10GbE-T,10SFF,2PCI-E16,16DDR4,IPMI )
+1x chassis - SC113TQ-600W 1U WIO 8SFF,slimCD,600W (80+ PLATINUM),black
+http://www.abacus.cz/sc113tq-600w-1u-wio-8sff-slimcd-600w-80-platinum-cerne_d5038428.html
+1x mainboard - X10DRW-E 2S-R3,WIO,PCI-E32(g3),2GbE, 10sATA3,16DDR4-2133,IPMI,bulk
+1x mgmt on board - IPMI 2.0 modul s KVM-over-LAN
+1x lan on board - Intel i350 2× GbE
+< URL >
+2x cpu - Intel Xeon E5-2620v3 - 2,4GHz@8,0GT 15MB cache, 6core,HT, 85W,LGA2011,tray
+http://www.abacus.cz/intel-xeon-e5-2620v3-2-4ghz-8-0gt-15mb-cache-6core-ht-85w-lga2011_d5074402.html
+8x ram - 32GB 2133MHz DDR4 ECC Registered 2R×4, LP(31mm), Samsung (M393A4K40BB0-CPB)
+http://www.abacus.cz/32gb-2133mhz-ddr4-ecc-registered-2r-4-lp-31mm-samsung-m393a4k40bb0-cpb-_d5078510.html
+4x ssd - SSD 2,5" 1TB Samsung 850 Pro SATAIII
+http://www.abacus.cz/samsung-ssd-sm863-960gb-sata3-6gbps-2-5-97-28kiops-3-5dwpd-sed_d5079772.html
+2x hdd - 750GB WD7500BFCX RED RAID Intellipower, sATA3, 16MB, 2,5" 9,5mm, NAS
+< URL >
+1x heatsink - SNK-P0057PS Pasivní 1U heatsink pro 2P LGA2011-3 úzký ILM (zadní CPU) BLADE
+< URL >
+1x riser card - RSC-R1UW-2E16 - 1U WIO->2×PCI-E16g3 stromeček levý
+< URL >
