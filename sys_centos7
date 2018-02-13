@@ -1,0 +1,20 @@
+( supermicro .i-1220F-X10 1U S-R3,8SFF,DVD,PCI-E16,8DDR4,IPMI,51cm )
+chassis - SC113MTQ-330C 1U ATX 8SFF,slimCD,330W,černé                                                  
+http://www.abacus.cz/sc113mtq-330c-1u-atx-8sff-slimcd-330w-80-gold-cerne_d5043878.html
+mainboard - X10SRL-F 1S-R3,2PCI-E8g3(v-E16)2-E8g3,2-E4g3(-E8),2GbE, 10sATA3,8DDR4-2133,IPMI,bulk         
+vga on board - Aspeed AST2400 with 16MB VRAM                                                                
+lan on board - Síťová karta Intel i210AT 2× GbE                                        
+mgmt on board - IPMI 2.0 modul s KVM-over-LAN                                          
+http://www.abacus.cz/x10srl-f-1s-r3-2pci-e8g3-v-e16-2-e8g3-2-e4g3-e8-2gbe-10sata3-8ddr4-2400-ipmi-bulk_d5077313.html
+cpu - Intel Xeon E5-2603v4 - 1,7GHz@6,4GT 15MB cache, 6core, 85W,LGA2011                           
+http://www.abacus.cz/intel-xeon-e5-2603v4-1-7ghz-6-4gt-15mb-cache-6core-85w-lga2011_d5079930.html
+4x ram - 16GB 2400MHz DDR4 ECC Registered 2R×4, LP(31mm), Samsung (M393A2G40DB1-CRC00)
+http://www.abacus.cz/16gb-2400mhz-ddr4-ecc-registered-2r-4-lp-31mm-samsung-m393a2g40eb1-crc-_d5082762.html
+raid controller - sATA - 10× serialATA 3.0 6Gb/s RAID 0/1/5/10
+< URL >
+2x ssd - Intel® SSD DC S3100 Series 240GB SATA3 6Gbps 2,5" 54/4,4kIOPS 5DWPD 
+< URL >                                
+Riser card left - RR1U-E16 (1U RC) - PCI-E16 levý (H8SMI/X8STi/X8DTL/H8QM+/X9SCI-LN4F)                         
+< URL >
+heatsink - SNK-P0047P Pasivní 1U heatsink pro 1P/2P LGA2011 čtvercový ILM
+< URL >
