@@ -1,0 +1,17 @@
+virt-install \
+  --name Win2010 \
+  --memory 8388 \
+  --vcpus 4 \
+  --cpu host \
+  --video cirrus \
+  --features hyperv_relaxed=on,hyperv_spinlocks=on,hyperv_vapic=on \
+  --clock hypervclock_present=yes \
+  --disk /dev/storage/virt/Win2010,bus=virtio \
+  --disk /storage/data/DWN/cs_windows_server_2016_x64_dvd_9327749.iso,device=cdrom,bus=ide \
+  --disk /storage/data/DWN/virtio-win.iso,device=cdrom,bus=ide \
+  --graphics vnc,listen=127.0.0.1 \
+  --noautoconsole \
+  --os-type=windows \
+  --os-variant=win2k8r2 \
+  --check path_in_use=off
+
